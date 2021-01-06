@@ -1,0 +1,75 @@
+{
+  "$data": {
+    "id": "38aea376-9046-42fd-8976-9f40f5f7b097",
+    "created_date": "2020-09-04T17:14:06.229Z",
+    "updated_date": "2020-10-14T20:15:27.125Z",
+    "first_name": "Test",
+    "middle_name": "",
+    "last_name": "Account",
+    "display_name": "Test Account",
+    "picture_url": "",
+    "birthday": null,
+    "gender": null,
+    "email": "test@liftlearning.com",
+    "phone": "",
+    "locale": "",
+    "time_zone": "",
+    "role": "unknown",
+    "properties": {},
+    "sync_date": "2020-10-09T19:56:35.930Z",
+    "gdpr": false,
+    "integration": {
+      "id": "9a55a684-d80f-430f-b300-391dd73894a6",
+      "created_date": "2020-09-04T16:43:56.692Z",
+      "updated_date": "2020-09-04T16:43:56.692Z",
+      "permissions": [
+        "8a5c2e39-aa7a-4229-99b3-6a4d46de9c0b",
+        "f279a7a1-7a8b-4cab-af62-0a18f60a0f97",
+        "02424716-d438-4518-beb1-6a1dd57bdf43",
+        "18869ca7-a440-4c32-bee1-1b31dade7670",
+        "80a42909-881d-452b-84a4-b000e849cc32",
+        "72115edf-2a6b-402d-af89-6422223978f4",
+        "45ade038-63a0-4bf8-9579-76b9aeef16f0",
+        "e5c2a41b-00a7-4aa3-9194-557d32b46c94"
+      ],
+      "scope": "all",
+      "targets": [],
+      "status": "active",
+      "start_date": "2020-09-04T16:43:56.692Z",
+      "end_date": null,
+      "state": "active"
+    },
+    "source": {
+      "id": "aef54ca4-fefe-4885-b6ac-9c1962be732e",
+      "status": "active",
+      "created_date": "2020-09-04T16:42:53.757Z",
+      "updated_date": "2020-09-04T16:42:53.757Z",
+      "name": "Google",
+      "state": null,
+      "sync_interval": 86400,
+      "log_retention_time": 604800,
+      "global": false
+    },
+    "provider": {
+      "id": "0ee5e450-4a9e-4b7d-bd30-62b33cdd5456",
+      "created_date": "2020-02-11T22:10:38.057Z",
+      "updated_date": "2020-02-11T22:10:38.057Z",
+      "application": "google",
+      "name": "Google",
+      "icon_url": "/source/google.png",
+      "requires_administrator_login": true,
+      "requires_administrator_consent": false,
+      "allows_data_sync": true,
+      "requires_remote_configuration": false,
+      "active": true,
+      "help": {}
+    },
+    "district": {
+      "id": "aa1be095-aa65-4935-ab02-82d0e951bd0e",
+      "type": "district",
+      "name": "LiFT School District",
+      "alias": "liftsd",
+      "entity": null
+    }
+  }
+}
